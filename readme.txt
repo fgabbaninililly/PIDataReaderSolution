@@ -1,7 +1,7 @@
-# PIDataReaderApps
+# PIDataReaderSolution
 
-This folder contains a Visual Studio solution named PIDataReaderApps.
-The solution is meant to include all projects needed to build PIDataReader executables.
+This folder contains a Visual Studio solution named PIDataReaderSolution.
+The solution is meant to include all projects and related references needed to build PIDataReader executables.
 
 Usage instructions.
 
@@ -27,6 +27,4 @@ Usage instructions.
 	5.5 PIDataReaderSolution
 		5.5.1 cd to PIDataReaderSolution
 		5.5.2 connect to GitHub and pull PIDataReaderSolution
-6. Use Visual Studio to open the solution file found in PIDataReaderSolution
-
-# PIDataReaderSolution
+6. Use Visual Studio to open the solution file found in PIDataReaderSolution and build the solution
