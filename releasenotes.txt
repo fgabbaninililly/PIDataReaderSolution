@@ -1,3 +1,11 @@
+1.3.1
+MQTT keep alive can now be specified in the configuration file
+PIDataReaderLibs: 3.3.0
+PIDataReaderCommons: 2.3.0
+PIDataReaderExe: 1.0.0
+PIDataReaderSvc: 1.1.0
+PIDataReaderSetup: 1.4.0
+
 1.3.0
 Validates xml configuration file against xml schema (xsd) file
 PIDataReaderLibs: 3.2.0
