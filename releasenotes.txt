@@ -1,3 +1,11 @@
+1.5.0
+Allow for configurable separators in the string where tag values are reported.
+PIDataReaderLibs: 3.4.0
+PIDataReaderCommons: 2.4.0
+PIDataReaderExe: 1.0.0
+PIDataReaderSvc: 1.1.0
+PIDataReaderSetup: 1.5.0
+
 1.4.1
 Fix error on read interval calculation
 PIDataReaderLibs: 3.3.0
