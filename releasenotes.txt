@@ -1,3 +1,11 @@
+1.6.1
+Remove invalid characters from output XML.
+PIDataReaderLibs: 3.5.1
+PIDataReaderCommons: 2.4.1
+PIDataReaderExe: 1.0.0
+PIDataReaderSvc: 1.1.0
+PIDataReaderSetup: 1.6.1
+
 1.6.0
 Clear cache after opening connection when using OLEDB. Catch exception when unable to read tag.
 Buffer value in xml configuration can be a float.
