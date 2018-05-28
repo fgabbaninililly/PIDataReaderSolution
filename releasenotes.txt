@@ -1,3 +1,13 @@
+1.6.2
+Exe does not wait if reader is started in fixed or relative mode.
+PIDRController returns if reader is scheduled or not.
+Allow to pass variable separators to FileWriter
+PIDataReaderLibs: 3.5.2
+PIDataReaderCommons: 2.4.2
+PIDataReaderExe: 1.0.1
+PIDataReaderSvc: 1.1.0
+PIDataReaderSetup: 1.6.2
+
 1.6.1
 Remove invalid characters from output XML.
 PIDataReaderLibs: 3.5.1
