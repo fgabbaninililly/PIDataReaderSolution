@@ -1,3 +1,13 @@
+1.8.0
+Fix bug that affected reading tags having enumeration values.
+Allow separators to be strings instead of simple chars.
+Target .NET 4.6.2 to use latest versions of OSI assemblies.
+PIDataReaderLibs: 3.7.0
+PIDataReaderCommons: 2.6.0
+PIDataReaderExe: 1.0.2
+PIDataReaderSvc: 1.2.1
+PIDataReaderSetup: 1.8.0
+
 1.7.0
 Read interval start does NOT change if reader is not able to read from PI due to connection issues.
 Service starts PIDataReaderController asynchronously.
