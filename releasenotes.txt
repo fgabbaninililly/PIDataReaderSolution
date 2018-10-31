@@ -1,3 +1,11 @@
+1.8.1
+Fix bug that prevented from identifying correctly AFValues of type "Digital".
+PIDataReaderLibs: 3.7.1
+PIDataReaderCommons: 2.6.0
+PIDataReaderExe: 1.0.2
+PIDataReaderSvc: 1.2.1
+PIDataReaderSetup: 1.8.1
+
 1.8.0
 Fix bug that affected reading tags having enumeration values.
 Allow separators to be strings instead of simple chars.
