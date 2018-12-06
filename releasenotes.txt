@@ -1,3 +1,12 @@
+1.8.2
+Setup writes version information on Windows registry.
+PIDataReader reads version information on Windows registry and displays it in logs (when invoked with --version).
+PIDataReaderLibs: 3.7.2
+PIDataReaderCommons: 2.6.1
+PIDataReaderExe: 1.0.3
+PIDataReaderSvc: 1.2.1
+PIDataReaderSetup: 1.8.2
+
 1.8.1
 Fix bug that prevented from identifying correctly AFValues of type "Digital".
 PIDataReaderLibs: 3.7.1
