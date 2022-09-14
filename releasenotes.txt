@@ -1,3 +1,12 @@
+1.9.0
+Use PI boundary conditions from xml config files.
+Added buffered writing capability when serializing files.
+PIDataReaderLibs: 3.8.0
+PIDataReaderCommons: 2.7.0
+PIDataReaderExe: 1.0.3
+PIDataReaderSvc: 1.2.1
+PIDataReaderSetup: 1.9.0
+
 1.8.3
 Cleanup taglist string before using it (trim white spaces and eliminate \r, \n, \t).
 PIDataReaderLibs: 3.7.3
