@@ -4,7 +4,7 @@ PIDataReaderLibs: 3.8.0
 PIDataReaderCommons: 2.7.0
 PIDataReaderExe: 1.0.4
 PIDataReaderSvc: 1.2.1
-PIDataReaderSetup: 1.9.0
+PIDataReaderSetup: 1.9.1
 
 1.9.0
 Use PI boundary conditions from xml config files.
