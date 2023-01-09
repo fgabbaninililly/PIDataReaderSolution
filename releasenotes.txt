@@ -1,3 +1,11 @@
+1.9.1
+Do not wait for console key to be pressed when PIDataReaderExe fails (prevents processes that invoke PIDataReaderExe to terminate correctly).
+PIDataReaderLibs: 3.8.0
+PIDataReaderCommons: 2.7.0
+PIDataReaderExe: 1.0.4
+PIDataReaderSvc: 1.2.1
+PIDataReaderSetup: 1.9.0
+
 1.9.0
 Use PI boundary conditions from xml config files.
 Added buffered writing capability when serializing files.
